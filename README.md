@@ -22,4 +22,4 @@ Result
 =======
 
 
-![](https://raw2.github.com/roest01/md5-folderfetcher/master/md5_file_result.png)
+![](https://raw.githubusercontent.com/roest01/md5-folderfetcher/master/md5_file_result.png)
